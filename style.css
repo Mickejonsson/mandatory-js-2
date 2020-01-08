@@ -1,0 +1,34 @@
+body{
+    width: 550px;
+    margin: auto;
+    background: rgb(78, 190, 74);
+}
+
+h1{
+    font-family: 'Ma Shan Zheng', cursive;
+    font-size: 60px;
+    color: 	rgb(167, 29, 29);
+}
+
+.Square{
+    height: 80px;
+    width: 80px;
+    font-size: 40pt;
+    text-align: center;
+    
+}
+
+#message{
+    color:blue;
+}
+
+#restart{
+    font-size: 18pt;
+    text-decoration: none;
+    color: black;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#restart:hover {
+ color: silver;
+}
